@@ -7,7 +7,7 @@
 #include <time.h>
 
 void usage() {
-    printf("Usage: ./soulcracks ip port time threads\n");
+    printf("Usage: ./abhishek ip port time threads\n");
     exit(1);
 }
 
